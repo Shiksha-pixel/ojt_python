@@ -16,3 +16,5 @@ class iterator(object):
 
 for num in iterator(100).divBySeven():
 	print num
+
+    
