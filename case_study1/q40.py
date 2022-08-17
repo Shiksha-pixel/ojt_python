@@ -8,5 +8,4 @@ add values into a list. Use [n1:n2] to slice a list
 sqr=[]
 for i in range(20):
     sqr.append((i+1)**2)
-
 print(sqr[5:])
